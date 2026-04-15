@@ -62,7 +62,9 @@ A Machine Learning-based web application that predicts whether a loan applicatio
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
-```
+
+
+
 Loan_Prediction/
 │
 ├── app.py
